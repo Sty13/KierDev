@@ -1,1 +1,2 @@
-# KierDev
+<h1>Kier And Dev meme website</h1>
+<p>This website is a **joke** please, do not beat me T-T<br>it was made to improve my skills in the front-end web development by challenging myself with some advanced javascript, html and css</p>
